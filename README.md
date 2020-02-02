@@ -12,7 +12,7 @@ DeferredEquityPlan: This contract automatically manages 1000 shares with an annu
 In Remix a 3 Ether transaction was schedule using the local server and the transaction when through. Sending 1 Ether to each employee. As corroborated in Ganache transactions
 
 ![Remix](Screenshots/f.PNG)
-![deploy](Screenshots/d.PNG)
+![Remix](Screenshots/x.PNG)
 
 ### TieredProfitSplitter
 For the Tiered contract 10 Ether were transacted using the local server.
